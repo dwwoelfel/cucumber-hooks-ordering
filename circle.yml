@@ -1,0 +1,4 @@
+test:
+  override:
+    # prevent circle from running the tests with the normal formatter
+    - bundle exec cucumber --format debug
