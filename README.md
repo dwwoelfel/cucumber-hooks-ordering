@@ -31,4 +31,4 @@ Printing from inside the test step
 after_features
 ```
 
-Here's the output on CircleCI: https://circleci.com/gh/dwwoelfel/cucumber-hooks-ordering/1
+Here's the output (with color!) on CircleCI: https://circleci.com/gh/dwwoelfel/cucumber-hooks-ordering/1
